@@ -1,2 +1,0 @@
-# Hanna-Miranda
-Bot
